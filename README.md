@@ -1,6 +1,3 @@
-# 未命名RPG-DataPack
-MinecraftDataPack
-
-数据包尚在制作过程中...
-
-可以试玩的时候会放出下载链接...
+#Minecraft-DataPack-Template
+Minecraft数据包模板
+嗯...一个模板...
