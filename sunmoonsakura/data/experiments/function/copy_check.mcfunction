@@ -1,0 +1,1 @@
+execute if block -746 64 481 minecraft:stone_button[face=wall,facing=south,powered=true] run clone -745 64 480 -745 64 480 -743 64 480
